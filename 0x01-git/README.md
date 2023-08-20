@@ -1,1 +1,1 @@
-Starting to code today, so cool
+0x01 file added with readme
